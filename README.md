@@ -1,6 +1,14 @@
 # Simple Login menggunakan Jetpack Compose di Android Studio
 
-![Preview]([preview.png](https://github.com/Wira07/Simple_Login_JetpackCompose/blob/master/app/src/main/res/drawable/preview.png))
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Android-brightgreen.svg" alt="Platform: Android">
+  <img src="https://img.shields.io/badge/language-Kotlin-orange.svg" alt="Language: Kotlin">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Wira07/Simple_Login_JetpackCompose/blob/master/app/src/main/res/drawable/preview.png" width="400" alt="Screenshot">
+</p>
 
 ### Deskripsi
 Projek ini adalah contoh implementasi formulir login sederhana menggunakan Jetpack Compose di Android Studio. Formulir ini memungkinkan pengguna untuk memasukkan email dan password, lalu melakukan login.
