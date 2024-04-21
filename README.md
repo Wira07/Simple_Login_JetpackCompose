@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://github.com/Wira07/Simple_Login_JetpackCompose/blob/master/app/src/main/res/drawable/preview.png" width="800" alt="Screenshot">
+  <img src="https://github.com/Wira07/Simple_Login_JetpackCompose/blob/master/app/src/main/res/drawable/image.png" width="800" alt="Screenshot">
 </p>
 
 ### Deskripsi
