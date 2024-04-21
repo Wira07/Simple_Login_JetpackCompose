@@ -30,3 +30,11 @@ Projek ini adalah contoh implementasi formulir login sederhana menggunakan Jetpa
 
 5. **Uji Coba**:
    - Pastikan untuk menguji tampilan login pada emulator atau perangkat fisik untuk memastikan semuanya berfungsi seperti yang diharapkan.
+
+## Kontak 📧
+
+Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya:
+
+- Email: wiralodrasaputra07@gmail.com
+- Situs Web: [smartprogramming216.blogspot.com](https://smartprogramming216.blogspot.com/)
+- LinkedIn: [Wira Sukma Saputra](https://www.linkedin.com/in/wira-sukma-saputra/)
